@@ -1,5 +1,5 @@
 # Numeric-Only Programming Language with AI Middle Layer  
-**Proposed by M. Praveen (m.praveen2920mp@gmail.com)**  
+**(m.praveen2920mp@gmail.com)**  
 
 ---
 
